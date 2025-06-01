@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning Checkpoint V3
+# Unsupervised Machine Learning Checkpoint 
 
 ## Overview
 
